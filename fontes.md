@@ -6,7 +6,7 @@ A curadoria segue a linha cronológica do condomínio para garantir que nenhuma 
 
 * Fase de Projeto/Incorporação:
 
-  * Lei 4.591/1964 (Lei de Incorporações): Rege a constituição, o memorial descritivo e as obrigações do incorporador. Link Oficial
+  * Lei 4.591/1964 (Lei de Incorporações): Rege a constituição, o memorial descritivo e as obrigações do incorporador.
 
 * Fase de Instituição e Registro:
 
@@ -14,7 +14,7 @@ A curadoria segue a linha cronológica do condomínio para garantir que nenhuma 
 
 * Fase de Instalação e Moradia (Gestão):
 
- * Código Civil (Lei 10.406/2002): Foco nos Artigos 1.331 a 1.358 (Condomínio Edilício) e competências do síndico (Art. 1.348). Link Oficial
+ * Código Civil (Lei 10.406/2002): Foco nos Artigos 1.331 a 1.358 (Condomínio Edilício) e competências do síndico (Art. 1.348).
 
 * Lei 13.709/2018 (LGPD): Aplicada ao tratamento de dados de condôminos em atas e sistemas de acesso.
 
