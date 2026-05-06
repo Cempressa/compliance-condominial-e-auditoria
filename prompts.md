@@ -28,7 +28,7 @@ Este projeto acadêmico foca na análise do descumprimento de Atas de Assembleia
 
 # Atividade executada no NotebookLM, usando as fontes recrutadas.
 
-### Caso 2: Auditoria de Descumprimento de Ata
+## Caso 2: Auditoria de Descumprimento de Ata
 
 * **Prompt Inicial:** "O que fazer se o síndico não cumpre a ata?"
 * **Prompt Otimizado (Auditoria de Compliance):** *"Simule um cenário de descumprimento de deliberação aprovada. Com base no Art. 1.348 do CC, detalhe as medidas progressivas: da notificação extrajudicial à convocação por 1/4 dos condôminos. Explique as teses de 'culpa in vigilando' e 'in eligendo' no caso de falhas da administradora."* 
